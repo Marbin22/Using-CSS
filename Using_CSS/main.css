@@ -1,0 +1,16 @@
+h1 {
+    color:  darkblue;
+}
+h3 {
+    color: forestgreen;
+}
+p {
+    color: blue;
+}
+img {
+    height: 400px;
+    width: 400px;
+}
+body {
+    background-color: violet;
+}
